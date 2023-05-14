@@ -1,0 +1,7 @@
+@import url("./_fonts.css");
+@import url("./_normalize.css");
+
+.App {
+    box-sizing: border-box;
+    background-color: #716c6c;
+}
